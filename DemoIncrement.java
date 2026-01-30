@@ -14,7 +14,7 @@ public class DemoIncrement {
         System.out.print("a: " + a);
         System.out.print(", b: " + b);
         System.out.print(", x: " + x);
-        System.out.println(", y: " + y);
+        System.out.print(", y: " + y);
         System.out.print(", p: " + p);
         System.out.println(", q: " + q);
 
